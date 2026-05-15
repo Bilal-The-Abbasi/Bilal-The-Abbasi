@@ -1,61 +1,48 @@
-# Bilal Abbasi
+# Bilal Abbasi — AI Growth Systems Operator
 
-Building practical AI systems for marketing, higher education, automation, and business operations.
+A premium, executive-level portfolio website positioning Bilal Abbasi as an AI systems thinker, marketing operations leader, and builder of scalable growth infrastructure.
 
----
+## Positioning
 
-## Current Focus
+The site communicates calm authority across:
 
-- AI-assisted operational systems
-- Marketing intelligence platforms
-- Lead quality analysis
-- Workflow automation
-- Interactive educational experiences
-- Modern SaaS interfaces
+- AI-enabled growth systems
+- Operational intelligence
+- Performance marketing leadership
+- Enterprise execution
+- Workflow architecture
+- Analytics and automation infrastructure
 
----
+## Design Direction
 
-## Featured Projects
+The interface uses a restrained enterprise palette:
 
-### AI Marketing Command Center
-AI-powered dashboard for campaign planning, SEO generation, ad copy, reporting, and operational workflows.
+- Primary background: `#07111F`
+- Secondary surfaces: `#101B2D`
+- Executive accent: `#C8A96B`
+- Primary text: `#F3F4F6`
+- Secondary text: `#94A3B8`
+- Success signal: `#3FA37C`
 
-### Higher Education Lead Intelligence System
-Platform for analyzing lead quality, funnel leakage, invalid leads, and enrollment performance.
+Visual language is intentionally minimal with subtle blueprint grids, thin borders, muted motion, editorial spacing, and sparse gold accents.
 
-### Interactive Anatomy Viewer
-Layered anatomy experience with interactive educational exploration.
+## Sections
 
-### AI Debate System
-Multi-agent AI interface where AI systems debate and refine solutions collaboratively.
+- Strong executive hero
+- Strategic positioning statement
+- Systems expertise
+- Selected operational projects
+- AI workflow model
+- Leadership and operational impact
+- Technical stack
+- Contact CTA
 
----
+## Local Preview
 
-## Tech & Tools
+This is a static site. Open `index.html` directly, or run a small local server:
 
-- React
-- Tailwind CSS
-- OpenAI APIs
-- Analytics & GTM
-- Automation Systems
-- UX Strategy
-- AI Workflows
-- Marketing Operations
+```bash
+python3 -m http.server 4173
+```
 
----
-
-## Philosophy
-
-Technology should reduce operational friction, increase clarity, and help organizations make smarter decisions faster.
-
-I focus on building practical AI systems with real-world business value.
-
----
-
-## Connect
-
-Portfolio:
-https://bilal-theabbasi.manus.space
-
-LinkedIn:
-https://www.linkedin.com/in/bilal-theabbasi/
+Then visit `http://localhost:4173`.
